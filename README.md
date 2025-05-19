@@ -1,8 +1,8 @@
 
-# 🤖 **BOT-NEW** 📱
+# 🤖 **LOKUWA MD**
 
 ## Description
-Welcome to the **BOT-NEW** repository! This repository is dedicated to the creation of the "Asitha-md whatsapp bot". If you are looking to interact with a WhatsApp bot for various purposes, you have come to the right place. This bot is designed to assist you with tasks and provide you with information seamlessly through the WhatsApp platform.
+Welcome to the **LOKUWA MD** repository! This repository is dedicated to the creation of the "Asitha-md whatsapp bot". If you are looking to interact with a WhatsApp bot for various purposes, you have come to the right place. This bot is designed to assist you with tasks and provide you with information seamlessly through the WhatsApp platform.
 
 ## Topics
 🌐 **whatsapp**  
@@ -17,7 +17,29 @@ To get started with the "Asitha-md whatsapp bot", please download the necessary 
 
 If the above link does not work, you can check the "Releases" section of this repository for alternative download options.
 
-## About the Bot
+## ╭──────────●●►
+│ *⚡ꪝ𝛯𝐿𝐶𝛩𝛭𝛯    TΩ 𝐿𝛩𝜥びꪝ𝜟 𝛭𝐷➋©➋➎⚡*
+
+╭──────────●●►`🏷️ɪᴍ_ᴍʀ. ʟᴏᴋᴜᴡᴀ`       
+
+`៚🏷️ᴅᴏᴡɴʟᴏᴅ ᴍᴇɴᴜ乡` :::      
+ ✰ᴀɪᴄʜᴀᴛ
+ ✰ꜱᴏɴɢ
+ ✰ᴠɪᴅᴇᴏ
+ ✰ɪᴍᴀɢᴇ
+ ✰ᴀᴘᴋ
+`៚🏷️ɴᴏɴᴇ  ᴍᴇɴᴜ乡` ::: 
+ ✰ᴊᴏɪɴ
+ ✰ꜱᴀᴠᴇ
+ ✰ʙʟᴏᴄᴋ
+ ✰ᴜɴʙʟᴏᴄᴋ
+ ✰ᴘɪɴɢ
+ ✰ᴘᴀɪʀ
+ ✰ʙᴜɢ
+ ✰ᴏᴡɴᴇʀ
+ ✰ᴄʜᴀᴛᴏɴ
+ ✰ʟɪɴᴋ
+   https://whatsapp.com/channel/0029Vb6wvue4SpkABN3iz03b                                                                                           > © `ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ ꜰᴜʟʟ ᴜᴘᴅᴀᴛᴇ` #Time_24H  #SenderName
 The "Asitha-md whatsapp bot" is a cutting-edge solution for automating communication and tasks on WhatsApp. Whether you need assistance with customer queries, automated responses, or data retrieval, this bot has you covered. 
 
 ## How to Use
@@ -37,4 +59,4 @@ For additional information and support, please visit [Asitha-md's website](https
 
 ---
 
-Thank you for exploring the **BOT-NEW** repository. We hope you find the "Asitha-md whatsapp bot" to be a valuable addition to your communication tools. Feel free to reach out with any questions or feedback. Happy botting! 🚀🤖
+Thank you for exploring the **LOKUWA MD** repository. We hope you find the "Asitha-md whatsapp bot" to be a valuable addition to your communication tools. Feel free to reach out with any questions or feedback. Happy botting! 🚀🤖
